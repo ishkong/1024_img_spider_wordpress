@@ -22,4 +22,7 @@ python3 spider.py
 ```
 
 # 关于程序
-综合自https://github.com/eqblog/1024_img_spider_threads和https://raw.githubusercontent.com/eqblog/mm131_spider_wordpress
+综合自
+https://github.com/eqblog/1024_img_spider_threads
+和
+https://raw.githubusercontent.com/eqblog/mm131_spider_wordpress
